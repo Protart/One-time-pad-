@@ -1,0 +1,14 @@
+```Hi there, the one-time pad (OTP) is an encryption technique that cannot be cracked.In this technique, a plaintext is paired with a random secret key (also referred to as a one-time pad).Each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition.Digital versions of one-time pad ciphers have been used by nations for some critical diplomatic and military communication.
+The word 'hello' can be ciphered into 3.2 billion different combinations.....which means your messages are safe and sound
+'/ci' is used for ciphering messages, type message to be ciphered after /ci.
+'/de' is used for deciphering messages, type secret message after /de.
+'/mail' is used to send an email with a secret message in its body, type your message after /mail.
+Mention the bot(@One-time pad) for some help, it will walk you through an encryption.
+'/ee' is used to enable End to end encryption, type '/ee' in the chat first, then the bot asks you to enter your message and then the user.Only the specified user can decrypt messages. Once decrypted messages can not be decrypted again (only applies for '/ee')
+The bot automatically sends the message to the specified user, the key is destroyed after decrypting.
+'/set' and '/send' are used in accordance:
+	'/set' can be used to set the channel you type'/set' in, to your preferred channel.
+	You can then DM the bot and type your text after '/send' to automatically cipher the text and send it to your preferred channel.
+The following commands require more permissions(the bot should have permissions to delete other users' messages):
+	'/set encrypted channel' is used to convert the channel you are typing in to an encrypted chat. All messages are automatically encrypted.
+   	'/encrypt channel history' encrypts the last 50 messages in the channel(works only if the last 50 messages are pure text- no embeds)```
