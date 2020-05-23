@@ -347,4 +347,4 @@ async def on_message(message):
         await message.channel.send('`'+decipher(message.content)+'`')
         await message.delete()
 
-client.run("NTg4MDE2NTAwMDAzMTc2NDU2.XP-_Eg.X1c7vTAy00L3K1W3QuFnhlM-h8U")
+client.run("secret token")
